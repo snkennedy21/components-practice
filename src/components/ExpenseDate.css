@@ -1,0 +1,8 @@
+.expense-container__data-container {
+  background: rgb(39, 39, 39);
+  color: #ffffff;
+  padding: 0.5rem 3rem;
+  font-size: 2.2rem;
+  margin: 1rem;
+  border-radius: 1rem;
+}
