@@ -1,5 +1,5 @@
 import "./App.css";
-import ExpenseContainer from "./components/ExpenseContainer";
+import ExpenseContainer from "./components/Expenses/ExpenseContainer";
 
 function App() {
   const expenses = [
@@ -13,7 +13,7 @@ function App() {
         <h2 className="header">This Is Practice For React Components</h2>
       </div>
 
-      <div className="container">
+      <div className="container-1">
         <ExpenseContainer items={expenses}></ExpenseContainer>
       </div>
     </div>
